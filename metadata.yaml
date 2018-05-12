@@ -1,0 +1,29 @@
+_repo: The-Church-the-Schools-and-Evolution_30126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conant, J. E. (Judson Eber)
+    alias: Conant, Judson Eber
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '34389'
+    url: http://www.gutenberg.org/2009/agents/34389
+description: ''
+gutenberg_issued: '2009-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30126'
+  lccn: '22020381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Religion and science'
+- !lcsh 'Evolution'
+title: The Church, the Schools and Evolution
+url: http://www.gutenberg.org/ebooks/30126
